@@ -15,6 +15,6 @@
     
     const box = document.createElement('div');
     box.style.cssText = 'position:fixed;top:10px;right:10px;background:blue;color:red;padding:10px;border:1px solid black;z-index:9999;';
-    box.textContent = 'Version2 Test v1.1';
+    box.textContent = 'Github v 1.0';
     document.body.appendChild(box);
 })();
